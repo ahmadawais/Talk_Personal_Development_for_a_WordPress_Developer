@@ -13,4 +13,6 @@ These slides are build with Flexbox, Gulp, Jade, Stylus and Browsersync all on t
 
 Code License is MIT. For content, contact me.
 
+Thanks to everyone who is directly or indirectly involved as an inspiration. W. Bos, C. Lema, Hyperbole and a Half etc. 
+
 
